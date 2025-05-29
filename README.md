@@ -183,8 +183,8 @@ t3.html
 ```
 # OUTPUT
 ![alt text](![vfirwvwkdenf;cwkmdnelf](https://github.com/user-attachments/assets/c4573264-b1fb-42d9-9779-31cf8578a532)
-![alt text](t1.png)
-![alt text](t2.png)
-![alt text](t3.png)
+![alt text](![ghcucuhgvguhh](https://github.com/user-attachments/assets/5e581dd8-a806-4545-a35f-8fab5d6a2cee)
+![alt text](![dfuihgjkb](https://github.com/user-attachments/assets/e86f17d8-ee00-4278-9249-93d5f4c42466)
+![alt text](![aweesdtfcfgygv](https://github.com/user-attachments/assets/7e5ce37e-0260-4dd3-8cb7-6603c3b72afa)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
