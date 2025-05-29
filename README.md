@@ -1,28 +1,29 @@
 # Ex04 Places Around Me
-# Date:
+# Date:05.10.2024
 # AIM
 To develop a website to display details about the places around my house.
 
 # DESIGN STEPS
-# STEP 1
+## STEP 1
 Create a Django admin interface.
 
-# STEP 2
+## STEP 2
 Download your city map from Google.
 
-# STEP 3
-Using tag name the map.
+## STEP 3
+Using <map> tag name the map.
 
-# STEP 4
-Create clickable regions in the image using tag.
+## STEP 4
+Create clickable regions in the image using <area> tag.
 
-# STEP 5
+## STEP 5
 Write HTML programs for all the regions identified.
 
-# STEP 6
+## STEP 6
 Execute the programs and publish them.
 
 # CODE
+```
 map.html
 
 <!DOCTYPE html>
@@ -179,8 +180,11 @@ t3.html
   <hr color="black">
 </body>
 </html>
-OUTPUT
-alt text alt text alt text alt text
-
-RESULT
-The program for implementing image maps using HTML is executed successfully.# Ex04 Places Around Me
+```
+# OUTPUT
+![alt text](map.png)
+![alt text](t1.png)
+![alt text](t2.png)
+![alt text](t3.png)
+# RESULT
+The program for implementing image maps using HTML is executed successfully.
