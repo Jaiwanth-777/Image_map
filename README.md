@@ -182,7 +182,7 @@ t3.html
 </html>
 ```
 # OUTPUT
-![alt text](map.png)
+![alt text](![vfirwvwkdenf;cwkmdnelf](https://github.com/user-attachments/assets/c4573264-b1fb-42d9-9779-31cf8578a532)
 ![alt text](t1.png)
 ![alt text](t2.png)
 ![alt text](t3.png)
