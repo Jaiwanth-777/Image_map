@@ -1,9 +1,9 @@
-Ex04 Places Around Me
-Date:05.10.2024
-AIM
+# Ex04 Places Around Me
+# Date:
+# AIM
 To develop a website to display details about the places around my house.
 
-DESIGN STEPS
+# DESIGN STEPS
 STEP 1
 Create a Django admin interface.
 
